@@ -1,0 +1,15 @@
+#!/usr/bin/bash
+# INI TOOLS GUA 
+#JANGAN DI RICODE
+
+clear
+figlet busybox
+echo "
+       ################################
+       #••••••••••••••••••••••••••••••#
+       #•* Author : 333Xsx           •#
+       #•* Github : github.com/333Xsx•#
+       #•* Team   : Eror System PND  •#
+       #••••••••••••••••••••••••••••••#
+       ################################ v.0.1"
+       busybox
